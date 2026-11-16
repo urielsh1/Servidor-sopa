@@ -1,0 +1,11 @@
+{
+  "name": "servidor-sopa",
+  "version": "1.9.2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
