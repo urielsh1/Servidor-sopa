@@ -1,0 +1,14 @@
+{
+  "name": "servidor-sopa",
+  "version": "1.12.36",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
